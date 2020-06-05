@@ -10,5 +10,5 @@ Description: k3d is a lightweight wrapper to run k3s (Rancher Lab’s minimal Ku
 Installers: 
     - Arch: x64
       Url:  https://github.com/rancher/k3d/releases/download/v3.0.0-rc.2/k3d-windows-amd64.exe
-      InstallerType: nullsoft
+      InstallerType: exe
       Sha256: 30e00a55f6b166a510eec72d85eb79d33384557be424252ebd3617b0b15fda33
